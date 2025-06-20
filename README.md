@@ -24,7 +24,7 @@ pip install fastapi uvicorn pandas
 2. Ejecuta el servidor de desarrollo:
 
 ```bash
-uvicorn main:app --reload
+uvicorn Act2:app --reload
 ```
 
 3. Abre tu navegador y visita:
