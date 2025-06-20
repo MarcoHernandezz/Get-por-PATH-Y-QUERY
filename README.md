@@ -91,10 +91,3 @@ GET /buscar?nombre=María&carrera=Informática
 GET /buscar2?carrera=Matemáticas&genero=F
 GET /buscar10?materia=Álgebra&edad=19
 ```
-
-
-
-## 📚 Créditos
-
-Desarrollado por [Tu Nombre o Matrícula]  
-Actividad 2: Get por PATH y QUERY
